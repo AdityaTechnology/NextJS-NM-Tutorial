@@ -15,7 +15,6 @@ function ParentComponent() {
 	// 	setMeter(m);
 	// 	console.log("Handle Meter");
 	// };
-
 	// useCallback(fn, dependency array)
 
 	const handleMeter = useCallback(
