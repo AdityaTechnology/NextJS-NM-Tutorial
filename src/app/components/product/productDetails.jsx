@@ -1,5 +1,6 @@
 "use client";
 import axios from "axios";
+
 import { useState, useEffect } from "react";
 function ProductDetails() {
 	const [product, setProduct] = useState([]);
